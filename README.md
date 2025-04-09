@@ -1,4 +1,4 @@
-# Bedrock Claude Chat (Nova)
+#11 Bedrock Claude Chat (Nova)
 
 ![](https://img.shields.io/github/v/release/aws-samples/bedrock-claude-chat?style=flat-square)
 ![](https://img.shields.io/github/license/aws-samples/bedrock-claude-chat?style=flat-square)
